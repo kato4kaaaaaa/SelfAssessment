@@ -1,69 +1,71 @@
 ## JavaScript
-
+:👂 heard
+: 🎓 known
+: 🖐 used
 - Language
-  - Object
+  - Object  :👂 heard
   - this
   - arrow function
   - async function
-  - call
+  - call :👂 heard
   - bind
-  - apply
+  - apply :👂 heard
   - instanceof
   - ...spread
   - ...rest
   - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
+  - destructuring :👂 heard
+  - generator :👂 heard
+  - iterator : 🎓 known
+  - async generator :👂 heard
+  - async iterator :👂 heard
   - chaining
   - optional chaining
   - IIFE
   - global
   - globalThis
-  - window
+  - window :👂 heard
   - getters and setters
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
+  - equality operators :👂 heard
+  - logical operators :👂 heard
+  - bitwise operators 
+  - ternary operator 
+  - void :: 🖐 used
+  - yield 
+  - await : 🖐 used
   - template literal
   - strict mode
   - delete
   - in
-  - super
-  - Symbol
+  - super 
+  - Symbol : 🖐 used
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
+  - if : 🖐 used
+  - while : 🖐 used
+  - do..while : 🖐 used
+  - for : 🖐 used
+  - for..in : 🖐 used
+  - for..of : 🖐 used
   - for await
   - throw
-  - break
-  - continue
-  - import
-  - export
+  - break : 🖐 used
+  - continue : 🖐 used
+  - import : 🖐 used
+  - export : 🖐 used
   - label
   - try..catch
-  - switch
-  - class
+  - switch : 🖐 used
+  - class : 🖐 used
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
+  - function declaration :👂 heard
+  - function expression:👂 heard
   - return
-  - default parameters
+  - default parameters 
   - functional object
 - Data structures
   - Array
@@ -71,19 +73,19 @@
   - extend
   - typed arrays
   - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
+  - Set : 🖐 used
+  - undefined : 🖐 used
+  - null : 🎓 known
+  - Proxy :👂 heard
   - weak collections
   - timers
   - EventEmitter
   - RegExp
-  - Date
+  - Date :👂 heard
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js :👂 heard
   - npm
   - prettier
   - MDN
