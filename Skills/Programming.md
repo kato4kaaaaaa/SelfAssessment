@@ -1,73 +1,73 @@
 ## Programming fundamental concepts
 
-- Concepts
-  - Model
-  - Modeling
+- Concepts 
+  - Model k
+  - Modeling k 
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm k
+  - Syntax k
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Programm k
+  - Programming paradigm 
+  - Programming language k
+  - Contract 
+  - Module k
+  - Library k
+  - Package k
+  - Component k
+  - Framework k
   - Platform
   - Source code
   - Object code
   - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
+  - Microcode k
+  - Software engineering k
+  - Decomposition k
+  - Control flow k
+  - Data flow k
   - Code reuse
-  - Defensive programming
+  - Defensive programming k
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
   - Value
-  - Identifier
+  - Identifier k
   - Variable
   - Constant
-  - Scalar
+  - Scalar k
   - Literal
   - Expression
   - Heap
   - Function
   - Procedure
-  - Method
-  - Class
+  - Method k
+  - Class k
   - Prototype
   - Event
-  - Type
-  - Flag
+  - Type k
+  - Flag k
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops k
   - Assignment
   - Regular expression
-  - Interface
+  - Interface k
   - Namespaces
-  - Call stack
+  - Call stack k
   - Naming conventions
   - Coding conventions
   - Camel case
-  - Snake case
-  - Kebab case
+  - Snake case k
+  - Kebab case k
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types k
+  - Reference types k
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,11 +81,11 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature k
+  - Argument k
+  - Parameter k
   - Pure function
-  - Lambda expression
+  - Lambda expression k
   - Side effects
   - Closure
   - Partial application
@@ -102,12 +102,12 @@
   - Functor
   - Monad
   - Monoid
-  - Generator
+  - Generator k
   - Coroutine
 - Data structures
   - Array
   - Structure
-  - Record
+  - Record k
   - Enum
   - Instance
   - Object
@@ -118,11 +118,11 @@
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
+  - Queue k
   - Stack
   - Deque
-  - Tree
-  - Graph
+  - Tree 
+  - Graph k
   - Iterator
   - Mutable state
   - Immutable state
@@ -132,13 +132,13 @@
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS k 
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4 k
+  - IPv6 k
+  - NAT k
+  - URL k
   - URN
   - URI
 - Process and tools
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 
   - VJM
   - CLR
   - Mono
@@ -217,8 +217,8 @@
   - Linux
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS u
+  - Windows k
   - Real-time OS
   - Embedded OS
 - Standards
